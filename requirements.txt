@@ -1,0 +1,1 @@
+git+https://github.com/KingKongRobotics/jumper.git@78966f45de6f2b6de3f7cea017f32a39f8b993e6#egg=mjrl-lab
